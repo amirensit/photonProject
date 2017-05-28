@@ -32,6 +32,10 @@ namespace Com.MyCompany.MyGame
         /// </summary>
         string _gameVersion = "1";
 
+        /// Typically this is used for the OnConnectedToMaster() callback.
+        /// </summary>
+        bool isConnecting;
+
 
         #endregion
 
@@ -86,6 +90,10 @@ namespace Com.MyCompany.MyGame
         /// </summary>
         public void Connect()
         {
+
+            // keep track of the will to join a room, because when we come back from the game we will get a callback that we are connected, so we need to know what to do then
+            isConnecting = true;
+
             progressLabel.SetActive(true);
             controlPanel.SetActive(false);
 
@@ -115,7 +123,11 @@ namespace Com.MyCompany.MyGame
 
 
             Debug.Log("DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN");
-            PhotonNetwork.JoinRandomRoom();
+            if (isConnecting)
+            {
+                // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnPhotonRandomJoinFailed()
+                PhotonNetwork.JoinRandomRoom();
+            }
 
 
         }
@@ -142,6 +154,18 @@ namespace Com.MyCompany.MyGame
         public override void OnJoinedRoom()
         {
             Debug.Log("DemoAnimator/Launcher: OnJoinedRoom() called by PUN. Now this client is in a room.");
+
+            // #Critical: We only load if we are the first player, else we rely on  PhotonNetwork.automaticallySyncScene to sync our instance scene.
+            if (PhotonNetwork.room.PlayerCount == 1)
+            {
+                Debug.Log("We load the 'Room for 1' ");
+
+
+                // #Critical
+                // Load the Room Level. 
+                PhotonNetwork.LoadLevel("Room for 1");
+            }
+
         }
 
 
