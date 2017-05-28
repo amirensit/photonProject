@@ -1,0 +1,1126 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80070057)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.15.11.8593]
+    Renderer: NVIDIA GeForce 8400 GS (Microsoft Corporation - WDDM v1.1)
+    Vendor:   NVIDIA
+    VRAM:     2160 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\amir\Desktop\build\CodeBlocks.lnk_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x960 60Hz; virtual: 1280x960 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 2.142706 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5bc -> priority: 1 
+OnStatusChanged: Connect current State: ConnectingToNameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: ConnectingToNameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received your UserID from server. Updating local value to: amir
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromNameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: Authenticating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher:OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one.
+Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 227: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: ConnectedToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 227: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnJoinedRoom() called by PUN. Now this client is in a room.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We load the 'Room for 1' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.932528 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 616.
+Total: 0.601057 ms (FindLiveObjects: 0.065077 ms CreateObjectMapping: 0.052142 ms MarkObjects: 0.456755 ms  DeleteObjects: 0.013743 ms)
+
+We are Instantiating LocalPlayer from Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 254: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.841965 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.565486 ms (FindLiveObjects: 0.050121 ms CreateObjectMapping: 0.066290 ms MarkObjects: 0.427247 ms  DeleteObjects: 0.021018 ms)
+
+OnStatusChanged: Connect current State: ConnectingToMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: Authenticating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 225: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: ConnectedToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 226: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.540426 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.620459 ms (FindLiveObjects: 0.076395 ms CreateObjectMapping: 0.044058 ms MarkObjects: 0.483028 ms  DeleteObjects: 0.015764 ms)
+
+We are Instantiating LocalPlayer from Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 202.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 253.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.359340 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 861.
+Total: 0.636627 ms (FindLiveObjects: 0.160874 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.427247 ms  DeleteObjects: 0.005254 ms)
+
+Ignoring scene load for Room for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 254.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HandleEventLeave for player ID: 1 evLeave: Event 254: {(Byte)252=(Int32[])System.Int32[], (Byte)203=(Int32)2, (Byte)254=(Int32)1}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.801140 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.772441 ms (FindLiveObjects: 0.086904 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.584888 ms  DeleteObjects: 0.057397 ms)
+
+Ignoring scene load for Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.290221 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.702109 ms (FindLiveObjects: 0.090138 ms CreateObjectMapping: 0.043250 ms MarkObjects: 0.508493 ms  DeleteObjects: 0.059014 ms)
+
+Ignoring scene load for Room for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 202.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 254.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HandleEventLeave for player ID: 3 evLeave: Event 254: {(Byte)252=(Int32[])System.Int32[], (Byte)254=(Int32)3}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.244152 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.539213 ms (FindLiveObjects: 0.037995 ms CreateObjectMapping: 0.042037 ms MarkObjects: 0.452308 ms  DeleteObjects: 0.005658 ms)
+
+Ignoring scene load for Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.289412 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.679069 ms (FindLiveObjects: 0.084075 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.495154 ms  DeleteObjects: 0.056184 ms)
+
+Ignoring scene load for Room for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 202.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 254.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HandleEventLeave for player ID: 4 evLeave: Event 254: {(Byte)252=(Int32[])System.Int32[], (Byte)254=(Int32)4}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.322962 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.652391 ms (FindLiveObjects: 0.074374 ms CreateObjectMapping: 0.043654 ms MarkObjects: 0.526682 ms  DeleteObjects: 0.006467 ms)
+
+Ignoring scene load for Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() az
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetwork : Loading Level : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.855304 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.702917 ms (FindLiveObjects: 0.084075 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.519407 ms  DeleteObjects: 0.055780 ms)
+
+Ignoring scene load for Room for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 202.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 254: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.931295 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.640669 ms (FindLiveObjects: 0.065077 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.508493 ms  DeleteObjects: 0.023848 ms)
+
+JoinRandomRoom failed. Client is not on Master Server or not yet ready to call operations. Wait for callback: OnJoinedLobby or OnConnectedToMaster.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: Authenticating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher:OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one.
+Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 227: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: ConnectedToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 227: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnJoinedRoom() called by PUN. Now this client is in a room.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We load the 'Room for 1' 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.493133 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.639052 ms (FindLiveObjects: 0.078416 ms CreateObjectMapping: 0.042037 ms MarkObjects: 0.502430 ms  DeleteObjects: 0.014551 ms)
+
+We are Instantiating LocalPlayer from Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 252: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 254: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.634202 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.618438 ms (FindLiveObjects: 0.048100 ms CreateObjectMapping: 0.065885 ms MarkObjects: 0.483028 ms  DeleteObjects: 0.021018 ms)
+
+OnStatusChanged: Connect current State: ConnectingToMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: Authenticating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 225: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Connect current State: ConnectingToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: ConnectedToGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 226: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557806 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.868238 ms (FindLiveObjects: 0.079628 ms CreateObjectMapping: 0.044867 ms MarkObjects: 0.725957 ms  DeleteObjects: 0.016572 ms)
+
+We are Instantiating LocalPlayer from Room for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 255.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 202.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 253.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.416738 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 861.
+Total: 0.613183 ms (FindLiveObjects: 0.056589 ms CreateObjectMapping: 0.070332 ms MarkObjects: 0.480199 ms  DeleteObjects: 0.005658 ms)
+
+Ignoring scene load for Room for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 201.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 206.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 254: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: Disconnect current State: DisconnectingFromGameserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 0.854495 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Com.MyCompany.MyGame.PlayerManager.CalledOnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+  at Com.MyCompany.MyGame.PlayerManager.<Start>m__0 (Scene scene, LoadSceneMode loadingMode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.692812 ms (FindLiveObjects: 0.069927 ms CreateObjectMapping: 0.042441 ms MarkObjects: 0.554977 ms  DeleteObjects: 0.024252 ms)
+
+OnStatusChanged: Connect current State: ConnectingToMasterserver
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStatusChanged: EncryptionEstablished current State: Authenticating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OperationResponse 230: ReturnCode: 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DemoAnimator/Launcher: OnConnectedToMaster() was called by PUN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnEvent: Event 226.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
